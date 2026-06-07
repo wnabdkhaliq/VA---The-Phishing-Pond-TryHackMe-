@@ -26,7 +26,7 @@ Key Indicator: Internal communication from HR department
 
 **Level 4**
 
-<img width="1096" height="486" alt="Level 4" src="https://github.com/user-attachments/assets/40b3acf0-83e0-4c8d-a5fd-bfeb5e22c631" />
+<img width="1105" height="602" alt="Level 4" src="https://github.com/user-attachments/assets/cb0b970d-ea87-4d0a-8b89-47c53ab388e2" />
 
 Verdict: Phishing
 
